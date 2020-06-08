@@ -1,0 +1,6 @@
+C:\Users\camyw\source\repos\FiveM-File-Downloader\bin\Release\FiveM-File-Downloader.exe.config
+C:\Users\camyw\source\repos\FiveM-File-Downloader\bin\Release\FiveM-File-Downloader.exe
+C:\Users\camyw\source\repos\FiveM-File-Downloader\bin\Release\FiveM-File-Downloader.pdb
+C:\Users\camyw\source\repos\FiveM-File-Downloader\obj\Release\FiveM-File-Downloader.csprojAssemblyReference.cache
+C:\Users\camyw\source\repos\FiveM-File-Downloader\obj\Release\FiveM-File-Downloader.exe
+C:\Users\camyw\source\repos\FiveM-File-Downloader\obj\Release\FiveM-File-Downloader.pdb
